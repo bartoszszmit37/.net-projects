@@ -1,0 +1,27 @@
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.exe.config
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.exe
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.pdb
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.Properties.Resources.resources
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.csproj.GenerateResource.Cache
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.exe
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.pdb
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.csprojResolveAssemblyReference.cache
+c:\users\finito\documents\visual studio 2012\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.konwerter_liczb.resources
+D:\projekty csharp kopia\Projects\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.exe.config
+D:\projekty csharp kopia\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.exe
+D:\projekty csharp kopia\Projects\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.pdb
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.exe.config
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.exe
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.pdb
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.exe
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.pdb
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.csprojResolveAssemblyReference.cache
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.konwerter_liczb.resources
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.Properties.Resources.resources
+D:\projekty akademickie\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.csproj.GenerateResource.Cache
+D:\projekty akademickie\dodane na bartoszszmit\konwersja_liczb\konwersja_liczb\bin\Debug\konwersja_liczb.exe.config
+D:\projekty akademickie\dodane na bartoszszmit\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.exe
+D:\projekty akademickie\dodane na bartoszszmit\konwersja_liczb\konwersja_liczb\obj\Debug\konwersja_liczb.pdb
+D:\1projekty akademickie\dodane na bartoszszmit\dodane do github\NumbersConversionWinFormTechnology\konwersja_liczb\bin\Debug\konwersja_liczb.exe.config
+D:\1projekty akademickie\dodane na bartoszszmit\dodane do github\NumbersConversionWinFormTechnology\konwersja_liczb\obj\Debug\konwersja_liczb.exe
+D:\1projekty akademickie\dodane na bartoszszmit\dodane do github\NumbersConversionWinFormTechnology\konwersja_liczb\obj\Debug\konwersja_liczb.pdb
