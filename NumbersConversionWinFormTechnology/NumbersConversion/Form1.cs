@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Globalization;
 
-namespace konwersja_liczb
+namespace NumbersConversion
 {
     public partial class NumbersConverter : Form
     {
