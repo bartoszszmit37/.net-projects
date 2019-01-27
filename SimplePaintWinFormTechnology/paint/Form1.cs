@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace paint
 {
-    public partial class bs_pulpit_paint : Form
+    public partial class SimplePainWinForm : Form
     {
         //bsz_pioro, czyli narzedzie do rysowania
         Pen bs_pioro = new Pen(Color.Blue, 2);
