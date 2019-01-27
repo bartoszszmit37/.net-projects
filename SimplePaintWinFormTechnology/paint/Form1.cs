@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace paint
+namespace SimplePainWinForm
 {
     public partial class SimplePainWinForm : Form
     {
