@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace bartoszszmit_projekt2_41965
+namespace StructuresAnalizator
 {
     public partial class Form1 : Form
     {
