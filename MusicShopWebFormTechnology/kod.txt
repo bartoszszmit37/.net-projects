@@ -1,0 +1,1 @@
+<li><asp:Button ID="bsLogowanieBtn" runat="server" Text="Logowanie" Height="20px" Width="113px" BackColor="White" OnClick="bsLogowanieBtn_Click" /></li>
