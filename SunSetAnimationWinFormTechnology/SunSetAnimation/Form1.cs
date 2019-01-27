@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace animacja_ukladu_slonecznego
+namespace SunSetAnimationSpace
 {
     public partial class SunSetSpace : Form
     {
