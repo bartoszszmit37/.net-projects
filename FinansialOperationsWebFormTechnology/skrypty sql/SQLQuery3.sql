@@ -1,0 +1,1 @@
+﻿delete from bs_TabelaStopProcentowych;
