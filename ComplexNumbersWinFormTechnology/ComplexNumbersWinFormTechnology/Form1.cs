@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace bs_project_4_liczby_zespolone
+namespace ComplexNumbersWinFormTechnology
 {
     public partial class bs_cala_formatka : Form
     {
