@@ -1,0 +1,33 @@
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\bin\Debug\paint.exe.config
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\bin\Debug\paint.exe
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\bin\Debug\paint.pdb
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.bs_pulpit_paint.resources
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.Properties.Resources.resources
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.exe
+c:\users\finito\documents\visual studio 2012\Projects\paint\paint\obj\Debug\paint.pdb
+D:\projekty akademiczkie\projekty akademickie\paint\paint\bin\Debug\paint.exe.config
+D:\projekty akademiczkie\projekty akademickie\paint\paint\obj\Debug\paint.exe
+D:\projekty akademiczkie\projekty akademickie\paint\paint\obj\Debug\paint.pdb
+D:\projekty akademiczkie\projekty akademickie\paint\paint\bin\Debug\paint.exe
+D:\projekty akademiczkie\projekty akademickie\paint\paint\bin\Debug\paint.pdb
+D:\projekty akademiczkie\projekty akademickie\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+D:\projekty akademiczkie\projekty akademickie\paint\paint\obj\Debug\paint.bs_pulpit_paint.resources
+D:\projekty akademiczkie\projekty akademickie\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\projekty akademiczkie\projekty akademickie\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+D:\projekty akademickie\paint\paint\bin\Debug\paint.exe.config
+D:\projekty akademickie\paint\paint\obj\Debug\paint.exe
+D:\projekty akademickie\paint\paint\obj\Debug\paint.pdb
+D:\projekty akademickie\paint\paint\bin\Debug\paint.exe
+D:\projekty akademickie\paint\paint\bin\Debug\paint.pdb
+D:\projekty akademickie\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+D:\projekty akademickie\paint\paint\obj\Debug\paint.bs_pulpit_paint.resources
+D:\projekty akademickie\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\projekty akademickie\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+D:\projekty akademickie\dodane na bartoszszmit\paint\paint\bin\Debug\paint.exe.config
+D:\projekty akademickie\dodane na bartoszszmit\paint\paint\obj\Debug\paint.exe
+D:\projekty akademickie\dodane na bartoszszmit\paint\paint\obj\Debug\paint.pdb
+D:\1projekty akademickie\dodane na bartoszszmit\dodane do github\SimplePaintWinFormTechnology\paint\bin\Debug\paint.exe.config
+D:\1projekty akademickie\dodane na bartoszszmit\dodane do github\SimplePaintWinFormTechnology\paint\obj\Debug\paint.exe
+D:\1projekty akademickie\dodane na bartoszszmit\dodane do github\SimplePaintWinFormTechnology\paint\obj\Debug\paint.pdb
