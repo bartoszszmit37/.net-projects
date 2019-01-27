@@ -1,0 +1,33 @@
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\bin\Debug\bankom1.exe.config
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\bin\Debug\bankom1.exe
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\bin\Debug\bankom1.pdb
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\obj\Debug\bankom1.csprojResolveAssemblyReference.cache
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\obj\Debug\bankom1.Form1.resources
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\obj\Debug\bankom1.Properties.Resources.resources
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\obj\Debug\bankom1.csproj.GenerateResource.Cache
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\obj\Debug\bankom1.exe
+c:\users\finito\documents\visual studio 2012\Projects\bankom1\bankom1\obj\Debug\bankom1.pdb
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\bin\Debug\bankom1.exe.config
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.exe
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.pdb
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\bin\Debug\bankom1.exe
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\bin\Debug\bankom1.pdb
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.csprojResolveAssemblyReference.cache
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.Form1.resources
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.Properties.Resources.resources
+F:\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.csproj.GenerateResource.Cache
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\bin\Debug\bankom1.exe.config
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.exe
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.pdb
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\bin\Debug\bankom1.exe
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\bin\Debug\bankom1.pdb
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.csprojResolveAssemblyReference.cache
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.Form1.resources
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.Properties.Resources.resources
+D:\pendrive kopia\Bankomat forumularzowy Bartosz Szmit\Bankomat forumularzowy Bartosz Szmit\bankom1\bankom1\obj\Debug\bankom1.csproj.GenerateResource.Cache
+D:\projekty akademickie\bankom1\bankom1\bin\Debug\bankom1.exe.config
+D:\projekty akademickie\bankom1\bankom1\obj\Debug\bankom1.exe
+D:\projekty akademickie\bankom1\bankom1\obj\Debug\bankom1.pdb
+D:\projekty akademickie\dodane na bartoszszmit\bankom1\bankom1\bin\Debug\bankom1.exe.config
+D:\projekty akademickie\dodane na bartoszszmit\bankom1\bankom1\obj\Debug\bankom1.exe
+D:\projekty akademickie\dodane na bartoszszmit\bankom1\bankom1\obj\Debug\bankom1.pdb
