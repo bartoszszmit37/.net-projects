@@ -1,0 +1,33 @@
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe.config
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.pdb
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.csprojResolveAssemblyReference.cache
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.Form1.resources
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.Properties.Resources.resources
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.csproj.GenerateResource.Cache
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.exe
+c:\users\finito\documents\visual studio 2012\Projects\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.pdb
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe.config
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.exe
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.pdb
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.pdb
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.csprojResolveAssemblyReference.cache
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.Form1.resources
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.Properties.Resources.resources
+D:\projekty akademiczkie\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.csproj.GenerateResource.Cache
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe.config
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.pdb
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.csprojResolveAssemblyReference.cache
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.Form1.resources
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.Properties.Resources.resources
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.csproj.GenerateResource.Cache
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.exe
+D:\projekty akademickie\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.pdb
+D:\projekty akademickie\dodane na bartoszszmit\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe.config
+D:\projekty akademickie\dodane na bartoszszmit\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.exe
+D:\projekty akademickie\dodane na bartoszszmit\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.pdb
+D:\1projekty akademickie\dodane na bartoszszmit\projekt_wykresow_funkcji\projekt_wykresow_funkcji\bin\Debug\projekt_wykresow_funkcji.exe.config
+D:\1projekty akademickie\dodane na bartoszszmit\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.exe
+D:\1projekty akademickie\dodane na bartoszszmit\projekt_wykresow_funkcji\projekt_wykresow_funkcji\obj\Debug\projekt_wykresow_funkcji.pdb
